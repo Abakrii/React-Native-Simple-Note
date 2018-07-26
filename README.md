@@ -2,6 +2,21 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
+
+### Real world examples
+
+<img src="https://github.com/AbdelrahmanSalemBakry111/React-Native-Simple-Note/blob/NT-1/gif/ezgif-4-8a269304da.gif?raw=true" width="240">
+
+
+
+
+
+
+
+
+
+
+
 ## Table of Contents
 
 * [Updating to New Releases](#updating-to-new-releases)
